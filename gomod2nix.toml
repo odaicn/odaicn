@@ -240,11 +240,11 @@ schema = 3
     version = "v0.10.0"
     hash = "sha256-WmLq9E9mYV+ms6Tdb43lCoAy6cowkDnK4bvX/ApDzLY="
   [mod."github.com/creachadair/atomicfile"]
-    version = "v0.3.3"
-    hash = "sha256-sm0lJGGjpm27HQlOc8C3QgWHjlyjJZ/tKIO5qpSNH7E="
+    version = "v0.3.7"
+    hash = "sha256-4xUHPOQZ27KhAafb3cnXAUgqBNCyAE5oCe1Fr4OVABk="
   [mod."github.com/creachadair/tomledit"]
-    version = "v0.0.26"
-    hash = "sha256-kpn/KpzYdlYMV9vq+AYEJq80S2tbT3xdU1gp6H4WoA8="
+    version = "v0.0.28"
+    hash = "sha256-YntekbpjbzhIeoLdQQfEsMC3TXh37qgxvZToL8tBlzc="
   [mod."github.com/crypto-org-chain/cronos/memiavl"]
     version = "v0.0.5-0.20240722062311-8384cad72737"
     hash = "sha256-KxwdnxZIIdZeugBwduaTFZichmEATZy5bdIiZZetbyE="
@@ -379,8 +379,8 @@ schema = 3
     version = "v1.12.1"
     hash = "sha256-v9/ewAmNdQ4SNBlBwgHkxn3IVJAf31D7zVlxwEK/LRs="
   [mod."github.com/google/go-cmp"]
-    version = "v0.6.0"
-    hash = "sha256-qgra5jze4iPGP0JSTVeY5qV5AvEnEu39LYAuUCIkMtg="
+    version = "v0.7.0"
+    hash = "sha256-JbxZFBFGCh/Rj5XZ1vG94V2x7c18L8XKB0N9ZD5F2rM="
   [mod."github.com/google/orderedcode"]
     version = "v0.0.1"
     hash = "sha256-KrExYovtUQrHGI1mPQf57jGw8soz7eWOC2xqEaV0uGk="
